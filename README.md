@@ -51,7 +51,7 @@
 | :--- | :--- | :--- |
 | **[RAG Histology Assistant](https://github.com/tiagocalderon/ubatik-histology-rag)** | `Python` `LangGraph` `Qdrant` `FastAPI` `RAGAS` | Multimodal RAG system with stateful agents, PLIP/UNI histology embeddings, and evaluation with RAGAS/LangSmith. |
 | **[Argentum MALT](https://github.com/tiagocalderon/Argentum-MALT)** | `C++20` `SDL2` `Qt6` `Google Test` | Multithreaded client-server recreation of Argentum Online featuring custom binary protocol with 70+ opcodes and MPMC queues. |
-| **[MaxiTurno](#)** | `Java 21` `Spring Boot` `React` `Docker` `PostgreSQL` | Appointment management platform with automated notifications (Email/Telegram) and CI/CD coverage pipeline. |
+| **[MaxiTurno](https://github.com/tiagocalderon/MaxiTurno)** | `Java 21` `Spring Boot` `React` `Docker` `PostgreSQL` | Appointment management platform with automated notifications (Email/Telegram) and CI/CD coverage pipeline. |
 
 ---
 
