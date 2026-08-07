@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Tiago Calderón 👋</h1>
-  <p><b>Computer Engineering Student @ FIUBA | Teaching Assistant @ Fundamentos de Programación (Essaya)</b></p>
+  <p><b>Computer Engineering Student @ FIUBA</b></p>
 
   <a href="https://www.linkedin.com/in/tiago-calder%C3%B3n/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
