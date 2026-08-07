@@ -74,8 +74,8 @@ A selection of key subjects and coursework from my degree at FIUBA:
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TiCalderon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tiago's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiCalderon&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tiagocalderon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tiago's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocalderon&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="165" />
 </div>
 
 ---
