@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          debug: yes
           user: tiagocalderon
           token: ${{ secrets.METRICS_TOKEN }}
           # El commit lo hace GITHUB_TOKEN para no re-disparar workflows
@@ -24,6 +25,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Argentina/Buenos_Aires
+          commits_authoring: tiagocalderon, tiagocalderon8@gmail.com
 
           # ---- Lenguajes más usados ----
           plugin_languages: yes
