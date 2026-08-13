@@ -30,7 +30,7 @@ I'm a Computer Engineering student at the University of Buenos Aires (**FIUBA**)
 
 ## 📂 Featured Projects
 
-- **[RAG Histology Assistant](https://github.com/tiagocalderon/ubatik-histology-rag):** Multimodal RAG system with stateful agents, PLIP/UNI histology embeddings and evaluation with RAGAS/LangSmith. `Python` `LangGraph` `Qdrant` `FastAPI`
+- **[RAG Histology Assistant](https://github.com/tiagocalderon/ubatik-histology-rag):** Multimodal histology assistant. Tissue identification is handled by **UNI** (a histology foundation model) while the LLM only retrieves the matching description from the course manual — the LLM never diagnoses. Hybrid text+image search over Qdrant with CLIP embeddings, orchestrated as a LangGraph state agent. `Python` `FastAPI` `LangGraph` `Qdrant` `CLIP` `Groq`
 - **[Argentum MALT](https://github.com/tiagocalderon/Argentum-MALT):** Multithreaded client-server recreation of Argentum Online, with a custom binary protocol (70+ opcodes) and MPMC queues. `C++20` `SDL2` `Qt6` `Google Test`
 - **[MaxiTurno](https://github.com/tiagocalderon/MaxiTurno):** Appointment management platform with automated Email/Telegram notifications and a CI/CD coverage pipeline. `Java 21` `Spring Boot` `React` `PostgreSQL`
 
